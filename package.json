@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "pg": "^8.16.3",
+    "ps": "^1.0.0"
+  },
+  "name": "proyecto_db",
+  "version": "1.0.0",
+  "description": "A simple full-stack clinic management app with authentication. It includes CRUD for patients, doctors, appointments (with joins to show patient/doctor names), and diagnosis, plus a small front-end in plain HTML/JS/Bootstrap.",
+  "main": "upload-csv.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
